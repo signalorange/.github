@@ -1,4 +1,4 @@
-## About signalorange | À propos de signalorange
+## About SignalOrange | À propos de SignalOrange
 
 We offer creative and innovative solutions to help you tackle the challenges posed by constantly evolving technologies.
 
